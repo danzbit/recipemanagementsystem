@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>dotnet-RecipeManagementSystem.Import-1d92808a-c6c3-4e78-9522-21fc920969cd</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Confluent.Kafka" Version="2.10.0" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.5"/>
+        <PackageReference Include="Microsoft.Extensions.Http" Version="9.0.5" />
+        <PackageReference Include="PDFsharp" Version="6.2.0" />
+        <PackageReference Include="PdfSharpCore" Version="1.3.67" />
+        <PackageReference Include="SixLabors.Fonts" Version="2.1.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\RecipeManagementSystem.Infrastructure\RecipeManagementSystem.Infrastructure.csproj" />
+      <ProjectReference Include="..\RecipeManagementSystem.Shared\RecipeManagementSystem.Shared.csproj" />
+    </ItemGroup>
+</Project>

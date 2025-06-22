@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1415B6-FD74-4D40-AD34-26CD9948DD4F}|RecipeManagementSystem.Import\\RecipeManagementSystem.Import.csproj|c:\\users\\daniil.zbitnyev\\source\\university\\recipemanagementsystem\\recipemanagementsystem.server\\recipemanagementsystem.import\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1415B6-FD74-4D40-AD34-26CD9948DD4F}|RecipeManagementSystem.Import\\RecipeManagementSystem.Import.csproj|solutionrelative:recipemanagementsystem.import\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FE5387-5C66-4829-8EEC-2335EE2344FD}|RecipeManagementSystem.Shared\\RecipeManagementSystem.Shared.csproj|c:\\users\\daniil.zbitnyev\\source\\university\\recipemanagementsystem\\recipemanagementsystem.server\\recipemanagementsystem.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FE5387-5C66-4829-8EEC-2335EE2344FD}|RecipeManagementSystem.Shared\\RecipeManagementSystem.Shared.csproj|solutionrelative:recipemanagementsystem.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA55EA67-B31B-4EDB-AB38-0344BA28B475}|RecipeManagementSystem.Infrastructure\\RecipeManagementSystem.Infrastructure.csproj|c:\\users\\daniil.zbitnyev\\source\\university\\recipemanagementsystem\\recipemanagementsystem.server\\recipemanagementsystem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA55EA67-B31B-4EDB-AB38-0344BA28B475}|RecipeManagementSystem.Infrastructure\\RecipeManagementSystem.Infrastructure.csproj|solutionrelative:recipemanagementsystem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB629197-22DD-4211-B290-9E7D84B4A762}|RecipeManagementSystem.Domain\\RecipeManagementSystem.Domain.csproj|c:\\users\\daniil.zbitnyev\\source\\university\\recipemanagementsystem\\recipemanagementsystem.server\\recipemanagementsystem.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB629197-22DD-4211-B290-9E7D84B4A762}|RecipeManagementSystem.Domain\\RecipeManagementSystem.Domain.csproj|solutionrelative:recipemanagementsystem.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB03AD9-532D-4A15-A378-A93A52F426C9}|RecipeManagementSystem.Application\\RecipeManagementSystem.Application.csproj|c:\\users\\daniil.zbitnyev\\source\\university\\recipemanagementsystem\\recipemanagementsystem.server\\recipemanagementsystem.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB03AD9-532D-4A15-A378-A93A52F426C9}|RecipeManagementSystem.Application\\RecipeManagementSystem.Application.csproj|solutionrelative:recipemanagementsystem.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\daniil.zbitnyev\\source\\university\\recipemanagementsystem\\recipemanagementsystem.server\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\daniil.zbitnyev\\source\\university\\recipemanagementsystem\\recipemanagementsystem.server\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF5DDAF-5015-4B67-9FE1-0981B69BB4F5}|RecipeManagementSystem.Api\\RecipeManagementSystem.Api.csproj|c:\\users\\daniil.zbitnyev\\source\\university\\recipemanagementsystem\\recipemanagementsystem.server\\recipemanagementsystem.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DFF5DDAF-5015-4B67-9FE1-0981B69BB4F5}|RecipeManagementSystem.Api\\RecipeManagementSystem.Api.csproj|solutionrelative:recipemanagementsystem.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF5DDAF-5015-4B67-9FE1-0981B69BB4F5}|RecipeManagementSystem.Api\\RecipeManagementSystem.Api.csproj|c:\\users\\daniil.zbitnyev\\source\\university\\recipemanagementsystem\\recipemanagementsystem.server\\recipemanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF5DDAF-5015-4B67-9FE1-0981B69BB4F5}|RecipeManagementSystem.Api\\RecipeManagementSystem.Api.csproj|solutionrelative:recipemanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Import\\Class1.cs",
+              "RelativeDocumentMoniker": "RecipeManagementSystem.Import\\Class1.cs",
+              "ToolTip": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Import\\Class1.cs",
+              "RelativeToolTip": "RecipeManagementSystem.Import\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:15:49.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "RecipeManagementSystem.Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Shared\\Class1.cs",
+              "RelativeToolTip": "RecipeManagementSystem.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:15:34.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "RecipeManagementSystem.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "RecipeManagementSystem.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:15:20.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "RecipeManagementSystem.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Domain\\Class1.cs",
+              "RelativeToolTip": "RecipeManagementSystem.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:15:07.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "RecipeManagementSystem.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Application\\Class1.cs",
+              "RelativeToolTip": "RecipeManagementSystem.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:14:55.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-01T18:11:03.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-01T18:10:53.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "RecipeManagementSystem.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Api\\Dockerfile",
+              "RelativeToolTip": "RecipeManagementSystem.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-01T18:10:13.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "RecipeManagementSystem.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Api\\Program.cs",
+              "RelativeToolTip": "RecipeManagementSystem.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:09:34.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

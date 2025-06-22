@@ -1,0 +1,17 @@
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\bin\Debug\net8.0\RecipeManagementSystem.Domain.deps.json
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\bin\Debug\net8.0\RecipeManagementSystem.Domain.runtimeconfig.json
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\bin\Debug\net8.0\RecipeManagementSystem.Domain.dll
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\bin\Debug\net8.0\RecipeManagementSystem.Domain.pdb
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\bin\Debug\net8.0\RecipeManagementSystem.Shared.dll
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\bin\Debug\net8.0\RecipeManagementSystem.Shared.pdb
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\obj\Debug\net8.0\RecipeManagementSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\obj\Debug\net8.0\RecipeManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\obj\Debug\net8.0\RecipeManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\obj\Debug\net8.0\RecipeManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\obj\Debug\net8.0\RecipeManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\obj\Debug\net8.0\RecipeMa.B703B660.Up2Date
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\obj\Debug\net8.0\RecipeManagementSystem.Domain.dll
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\obj\Debug\net8.0\refint\RecipeManagementSystem.Domain.dll
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\obj\Debug\net8.0\RecipeManagementSystem.Domain.pdb
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\obj\Debug\net8.0\RecipeManagementSystem.Domain.genruntimeconfig.cache
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Domain\obj\Debug\net8.0\ref\RecipeManagementSystem.Domain.dll

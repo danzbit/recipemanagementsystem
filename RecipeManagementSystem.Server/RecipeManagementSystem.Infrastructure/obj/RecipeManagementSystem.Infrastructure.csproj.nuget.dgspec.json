@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Infrastructure\\RecipeManagementSystem.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Domain\\RecipeManagementSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Domain\\RecipeManagementSystem.Domain.csproj",
+        "projectName": "RecipeManagementSystem.Domain",
+        "projectPath": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Domain\\RecipeManagementSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\daniil.zbitnyev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daniil.zbitnyev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nix-net.pkgs.visualstudio.com/NixNuGet/_packaging/NixNuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Shared\\RecipeManagementSystem.Shared.csproj": {
+                "projectPath": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Shared\\RecipeManagementSystem.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Infrastructure\\RecipeManagementSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Infrastructure\\RecipeManagementSystem.Infrastructure.csproj",
+        "projectName": "RecipeManagementSystem.Infrastructure",
+        "projectPath": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Infrastructure\\RecipeManagementSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\daniil.zbitnyev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daniil.zbitnyev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nix-net.pkgs.visualstudio.com/NixNuGet/_packaging/NixNuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Domain\\RecipeManagementSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Domain\\RecipeManagementSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Shared\\RecipeManagementSystem.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Shared\\RecipeManagementSystem.Shared.csproj",
+        "projectName": "RecipeManagementSystem.Shared",
+        "projectPath": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Shared\\RecipeManagementSystem.Shared.csproj",
+        "packagesPath": "C:\\Users\\daniil.zbitnyev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daniil.zbitnyev\\source\\university\\RecipeManagementSystem\\RecipeManagementSystem.Server\\RecipeManagementSystem.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daniil.zbitnyev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nix-net.pkgs.visualstudio.com/NixNuGet/_packaging/NixNuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

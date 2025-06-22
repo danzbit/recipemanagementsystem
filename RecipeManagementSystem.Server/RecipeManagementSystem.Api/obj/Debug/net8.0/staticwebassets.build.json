@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "99E5VBNzrRuDumOjzapp2IS2F3gMRe7+rBLGSVAuHkg=",
+  "Source": "RecipeManagementSystem.Api",
+  "BasePath": "_content/RecipeManagementSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

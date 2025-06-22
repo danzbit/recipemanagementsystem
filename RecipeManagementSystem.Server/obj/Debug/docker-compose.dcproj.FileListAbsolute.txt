@@ -1,0 +1,15 @@
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\bin\Debug\RecipeManagementSystem.Api.deps.json
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\bin\Debug\RecipeManagementSystem.Api.runtimeconfig.json
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\bin\Debug\appsettings.Development.json
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\bin\Debug\appsettings.json
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\bin\Debug\RecipeManagementSystem.Api.staticwebassets.endpoints.json
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\bin\Debug\RecipeManagementSystem.Api.exe
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\bin\Debug\RecipeManagementSystem.Api.dll
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\bin\Debug\RecipeManagementSystem.Api.pdb
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\obj\Debug\docker-c.35A3FFBA.Up2Date

@@ -1,0 +1,12 @@
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Shared\bin\Debug\net8.0\RecipeManagementSystem.Shared.deps.json
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Shared\bin\Debug\net8.0\RecipeManagementSystem.Shared.dll
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Shared\bin\Debug\net8.0\RecipeManagementSystem.Shared.pdb
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Shared\obj\Debug\net8.0\RecipeManagementSystem.Shared.csproj.AssemblyReference.cache
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Shared\obj\Debug\net8.0\RecipeManagementSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Shared\obj\Debug\net8.0\RecipeManagementSystem.Shared.AssemblyInfoInputs.cache
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Shared\obj\Debug\net8.0\RecipeManagementSystem.Shared.AssemblyInfo.cs
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Shared\obj\Debug\net8.0\RecipeManagementSystem.Shared.csproj.CoreCompileInputs.cache
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Shared\obj\Debug\net8.0\RecipeManagementSystem.Shared.dll
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Shared\obj\Debug\net8.0\refint\RecipeManagementSystem.Shared.dll
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Shared\obj\Debug\net8.0\RecipeManagementSystem.Shared.pdb
+C:\Users\daniil.zbitnyev\source\university\RecipeManagementSystem\RecipeManagementSystem.Server\RecipeManagementSystem.Shared\obj\Debug\net8.0\ref\RecipeManagementSystem.Shared.dll
